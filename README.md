@@ -7,7 +7,9 @@ For classware and learning platforms, see [Awesome PH EdTech](https://github.com
 ## Contents
 
 - [Campus navigation & orientation](#campus-navigation--orientation)
+- [Campus planning](#campus-planning)
 - [Grades & housing](#grades--housing)
+- [Student & community involvement](#student--community-involvement)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -18,10 +20,19 @@ For classware and learning platforms, see [Awesome PH EdTech](https://github.com
 - **[Freshie Guide](https://freshie-guide.vercel.app)**: UPLB guide for incoming students covering enrolment, dorms, organizations, and campus life. [Source](https://github.com/smmariquit/freshie-guide)
 - **[Room TBA](https://room-tba.uplbtools.me)**: Find UPLB rooms and classes with building details, schedules, directions, and offline support. [Source](https://github.com/uplbtools/room-tba)
 
+## Campus planning
+
+- **[CITU Course Builder](https://citcoursebuilder.masurii.dev)**: Plan, filter, and generate class schedules for Cebu Institute of Technology - University. [Source](https://github.com/MasuRii/CITUCourseBuilder)
+
 ## Grades & housing
 
 - **[GradeSim](https://gradesim.uplbtools.me)**: Grade simulator for tracking and forecasting course grades from quizzes, exams, and weighted components. [Source](https://github.com/uplbtools/gradesim)
+- **[UPLB AMIS Grade Calculator](https://grade-calculator-nine-sigma.vercel.app)**: Local-first GWA, future-grade, and Latin-honors calculator for UPLB students. [Source](https://github.com/alexgaaranes/grade-calculator)
 - **[UPLB CASA](https://uplb.casa)**: Housing portal for UPLB accommodation applications, room assignment, billing, and audit logs. [Source](https://github.com/smmariquit/comsci-128)
+
+## Student & community involvement
+
+- **[KalingaLink](https://kalinga-link.vercel.app)**: Volunteer and resource coordination platform built with UPLB students for a recurring community feeding program in Los Baños. [Source](https://github.com/NeilAutriz/Kalinga-Link)
 
 ---
 
