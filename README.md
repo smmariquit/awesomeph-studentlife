@@ -26,13 +26,14 @@ For classware and learning platforms, see [Awesome PH EdTech](https://github.com
 
 ## Grades & housing
 
-- **[GradeSim](https://gradesim.uplb.tools)**: Grade simulator for tracking and forecasting course grades from quizzes, exams, and weighted components. [Source](https://github.com/uplbtools/gradesim)
+- **[Ateneo QPI Calculator](https://qpi.alexi.life)**: QPI calculator for Ateneo students with AISIS grade import, Dean's List checks, and GWA conversion. [Source](https://github.com/itsalexi/ADMU-QPI)
 - **[UPLB AMIS Grade Calculator](https://grade-calculator-nine-sigma.vercel.app)**: Local-first GWA, future-grade, and Latin-honors calculator for UPLB students. [Source](https://github.com/alexgaaranes/grade-calculator)
 - **[UPLB CASA](https://uplb.casa)**: Housing portal for UPLB accommodation applications, room assignment, billing, and audit logs. [Source](https://github.com/smmariquit/comsci-128)
 
 ## Student & community involvement
 
 - **[KalingaLink](https://kalinga-link.vercel.app)**: Volunteer and resource coordination platform built with UPLB students for a recurring community feeding program in Los Baños. [Source](https://github.com/NeilAutriz/Kalinga-Link)
+- **[OnePUP](https://onepup.up.railway.app)**: Directory of PUP offices, forms, systems, and student organizations across all campuses and colleges. [Source](https://github.com/jaedone/onepup)
 
 ---
 
