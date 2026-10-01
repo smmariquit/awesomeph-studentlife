@@ -17,8 +17,8 @@ For classware and learning platforms, see [Awesome PH EdTech](https://github.com
 
 ## Campus navigation & orientation
 
-- **[Freshie Guide](https://freshie-guide.vercel.app)**: UPLB guide for incoming students covering enrolment, dorms, organizations, and campus life. [Source](https://github.com/smmariquit/freshie-guide)
 - **[Room TBA](https://room-tba.uplb.tools)**: Find UPLB rooms and classes with building details, schedules, directions, and offline support. [Source](https://github.com/uplbtools/room-tba)
+- **[Room TBA UPD](https://room-tba-upd.vercel.app)**: Find UP Diliman rooms, classes, and campus landmarks with schedules, directions, and offline support, ported from Room TBA. [Source](https://github.com/uplbtools/room-tba-upd)
 
 ## Campus planning
 
@@ -26,6 +26,7 @@ For classware and learning platforms, see [Awesome PH EdTech](https://github.com
 
 ## Grades & housing
 
+- **[BU GWA Calculator & Academic Evaluator](https://tsugumii21.github.io/bu-gwa-calculator-evaluator/)**: GWA calculator and academic-honors evaluator for Bicol University students, with grade simulation and scholarship-retention tracking. [Source](https://github.com/tsugumii21/bu-gwa-calculator-evaluator)
 - **[GradeSim](https://gradesim.uplb.tools)**: Grade simulator for tracking and forecasting course grades from quizzes, exams, and weighted components. [Source](https://github.com/uplbtools/gradesim)
 - **[UPLB AMIS Grade Calculator](https://grade-calculator-nine-sigma.vercel.app)**: Local-first GWA, future-grade, and Latin-honors calculator for UPLB students. [Source](https://github.com/alexgaaranes/grade-calculator)
 - **[UPLB CASA](https://uplb.casa)**: Housing portal for UPLB accommodation applications, room assignment, billing, and audit logs. [Source](https://github.com/smmariquit/comsci-128)
